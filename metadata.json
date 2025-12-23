@@ -1,0 +1,7 @@
+{
+  "name": "VisionShop: AI Video Shopper",
+  "description": "An intelligent video player that detects objects when paused, allowing users to instantly shop for items seen on screen using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
